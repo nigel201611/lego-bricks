@@ -2,7 +2,7 @@
   "name": "lego-bricks",
   "version": "1.0.10",
   "private": false,
-  "author": "Viking Zhang",
+  "author": "nigel",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "npm run clean && npm run build:esm && npm run build:umd",
